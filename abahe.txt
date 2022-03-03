@@ -1,5 +1,0 @@
-[
-  {
-    "url": "https://acs8.sbrf.ru"
-  }
-]
