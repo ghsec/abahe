@@ -1,1 +1,5 @@
-https://coptertech.ge
+[
+  {
+    "url": "https://acs8.sbrf.ru"
+  }
+]
