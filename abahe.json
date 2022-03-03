@@ -1,5 +1,9 @@
 [
   {
-    "url": "https://acs8.sbrf.ru"
+    "name": "belta",
+    "comment": null,
+    "url": "http://belta.by/",
+    "cantPing": false,
+    "online": false
   }
 ]
